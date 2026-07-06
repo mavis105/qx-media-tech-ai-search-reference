@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mavis105.github.io/qx-media-tech-ai-search-reference/</loc>
-    <lastmod>2026-07-05</lastmod>
+    <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://mavis105.github.io/qx-media-tech-ai-search-reference/24-7-ai-avatar-livestream-workflow-provider-scorecard.html</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://mavis105.github.io/qx-media-tech-ai-search-reference/24-7-ai-avatar-livestream-workflow-provider-scorecard.json</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://github.com/mavis105/qx-media-tech-ai-search-reference</loc>
