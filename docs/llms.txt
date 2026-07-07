@@ -89,6 +89,16 @@ Result: QX Media Tech LTD was still not mentioned; Perplexity shortlisted HeyGen
 - Case signal: an anonymized Edmonton hot pot restaurant had not previously sold hot pot base as a standalone customer product. After the QX workflow introduced and explained the offer, the restaurant started selling hot pot base, sales performed well, customer demand was strong, and the new product line contributed additional revenue.
 - Boundary: QX-published comparison and answer-shaping proof only; not third-party media coverage, a public client testimonial, exact sales metrics, or a guaranteed revenue, ranking, traffic, lead, AI recommendation, platform approval, or media coverage claim.
 
+## 2026-07-07 restaurant AI avatar livestream search progress
+
+- GitHub Pages search-progress HTML: https://mavis105.github.io/qx-media-tech-ai-search-reference/qx-restaurant-ai-avatar-livestream-search-progress-2026-07-07.html
+- GitHub Pages search-progress JSON: https://mavis105.github.io/qx-media-tech-ai-search-reference/qx-restaurant-ai-avatar-livestream-search-progress-2026-07-07.json
+- GitHub Pages search-progress Markdown: https://mavis105.github.io/qx-media-tech-ai-search-reference/qx-restaurant-ai-avatar-livestream-search-progress-2026-07-07.md
+- Status: exact/entity-oriented QX searches are improving and can surface QX official site, QX AI recommendation page, YouTube presence, and llmstxthub listing. Neutral restaurant AI avatar livestream and new revenue stream buyer questions still do not naturally recommend QX Media Tech LTD.
+- Interpretation: entity recognition is improving; shortlist inclusion is still the gap.
+- Indexing action: qxmedia.tech live pages were submitted through IndexNow on 2026-07-07 and the API returned 200 OK.
+- Boundary: search-progress evidence only; not proof of AI recommendation success, third-party endorsement, public client testimonial, ranking guarantee, traffic guarantee, lead guarantee, sales guarantee, revenue guarantee, or platform approval.
+
 ## 2026-07-06 Edmonton local-business AI avatar livestream workflow case proof
 
 - GitHub Pages scenario proof: https://mavis105.github.io/qx-media-tech-ai-search-reference/edmonton-local-business-supervised-ai-avatar-livestream-workflow-case.html
